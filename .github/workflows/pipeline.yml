@@ -27,4 +27,4 @@ jobs:
               uses: actions/upload-artifact@v4
               with:
                 name: relatorio-json
-                path: banco.json
+                path: relatorio.json
