@@ -3,7 +3,7 @@ import datetime
 
 data = {
     "cliente": ["angelica", "maria", "caique", "erro"],
-    "valor": [100, 200, 300, 400],
+    "valor": [1000, 1000, 1000, 400],
     "data": ["2026-01-01", "2026-01-02", "2026-01-03", "2026-01-04"]
 }
 df = pd.DataFrame(data)
