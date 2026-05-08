@@ -2,7 +2,7 @@ name: Pipeline de Relatorio Diario
 
 on:
     schedule:
-        - cron: '50 2 * * *'
+        - cron: '51 1 * * *'
     workflow_dispatch:
 jobs:
     executar-processamento:
